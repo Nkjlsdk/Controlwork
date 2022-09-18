@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Task-total\Task_control_commit\bin\Debug\net6.0\Task_control_commit.exe
+C:\Users\user\Desktop\Task-total\Task_control_commit\bin\Debug\net6.0\Task_control_commit.deps.json
+C:\Users\user\Desktop\Task-total\Task_control_commit\bin\Debug\net6.0\Task_control_commit.runtimeconfig.json
+C:\Users\user\Desktop\Task-total\Task_control_commit\bin\Debug\net6.0\Task_control_commit.dll
+C:\Users\user\Desktop\Task-total\Task_control_commit\bin\Debug\net6.0\Task_control_commit.pdb
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.AssemblyInfo.cs
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.dll
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\refint\Task_control_commit.dll
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.pdb
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\Task_control_commit.genruntimeconfig.cache
+C:\Users\user\Desktop\Task-total\Task_control_commit\obj\Debug\net6.0\ref\Task_control_commit.dll
